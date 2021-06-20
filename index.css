@@ -8,7 +8,7 @@ body{
 
 }
 p{fint font-size: 30px;}
-*{
+*{font-size:140%;
   outline: none;
   border: none;
   padding: 0;
